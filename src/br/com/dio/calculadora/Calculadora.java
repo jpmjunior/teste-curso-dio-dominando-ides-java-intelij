@@ -1,4 +1,4 @@
-package br.com.dio;
+package br.com.dio.calculadora;
 
 import java.util.Scanner;
 
